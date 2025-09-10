@@ -12,6 +12,8 @@ A beginner-friendly project to analyze **Indian Premier League (IPL)** cricket d
 - Identify most successful teams and toss advantage 
 - Explore top batsmen and bowlers  
 - Team Performance Per Season  
+- Top 10 highest scores by teams in a single match
+- Most Frequent Match Venues
 
 ---
 
